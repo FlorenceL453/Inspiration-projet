@@ -12,7 +12,7 @@ Panneaux intéractifs
 
 ![Image](https://user-images.githubusercontent.com/90851771/186770247-91c58f92-debe-45e5-9675-ca4b1166210b.png)
 
-
+Miroire
 
 ![Image](https://user-images.githubusercontent.com/90851771/186770361-efc5da68-b3d4-4136-a0b9-ca8dc69604ee.png)
 
