@@ -1,4 +1,4 @@
-# Inspiration-projet
+# Inspiration Projet
 
 Panneaux intéractifs
 
