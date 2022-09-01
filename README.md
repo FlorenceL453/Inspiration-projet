@@ -1,5 +1,7 @@
 # Inspiration-projet
 
+Panneaux intéractifs
+
 ![Image](https://user-images.githubusercontent.com/90851771/186770072-9912e1d9-ef18-472c-864e-263cb904beb9.png)
 
 
