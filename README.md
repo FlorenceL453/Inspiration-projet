@@ -1,5 +1,7 @@
 # Inspiration Projet
 
+Plan de l'installation
+
 ![image](https://user-images.githubusercontent.com/90851771/188699971-931b5957-8690-4d05-99fe-c92e42e91d5d.png)
 
 Panneaux intéractifs
